@@ -1,10 +1,12 @@
 ---
 title: "Organizing text"
-exerpt: "GitHub Blog 서비스인 github.io 블로그를 시작하기로 했다."
+exerpt: "문장과 문장을 이어주는 표현"
 
 categories:
-- Blog
+- English
 tags:
-- Blog
-last_modified_at: 2021-05-02T14:00:00
+- English, Composition
+last_modified_at: 2021-05-02T14:47:00
 ---
+
+- adding a point
